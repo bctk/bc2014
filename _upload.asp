@@ -2,7 +2,6 @@
 Const adTypeBinary = 1
 Const adTypeText = 2
 
-
 Const xfsCompleted    = &H0 '0  Form was successfully processed. 
 Const xfsNotPost      = &H1 '1  Request method is NOT post 
 Const xfsZeroLength   = &H2 '2  Zero length request (there are no data in a source form) 
